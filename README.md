@@ -100,19 +100,21 @@ This prototype includes interactive elements to simulate a real website experien
 
 ## 🎵 Homepage (Pagination)
 
-![Homepage Page 2](assets/homepage-page2.png)
+
+![Homepage Page 2](assets/homepage%202.png)
 
 ---
 
 ## 🔐 Login Page
 
-![Login Page](assets/login-page.png)
+![Login Page](assets/loginPage.Nav.png)
 
 ---
 
 ## 📂 Navigation & Additional Page
 
-![Navigation](assets/navigation-page3.png)
+
+![Navigation](assets/Navigation.3.png)
 
 ---
 
